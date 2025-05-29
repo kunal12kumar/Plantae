@@ -1,4 +1,6 @@
-# Plantae.Ai
+# Plantae.A
+
+#This is our deployed link :- https://plantae-ai.vercel.app/
 
 Plantae.Ai is an AI-powered agricultural assistant designed to help farmers and plantation managers monitor crop health, count trees, and detect weeds efficiently using advanced AI models.
 
